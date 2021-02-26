@@ -33,15 +33,19 @@ INSTALAÇÃO:
 > Se você não tiver o APK Termux, baixe-o na Playstore
 > entre no apk termux e digite abaixo!
 > termux-setup-storage
+
 > pkg install git && pkg install tesseract && pkg install wget && pkg install ffmpeg && pkg install nodejs
 > apt update && apt upgrade
 > git clone https://github.com/BOOTON24hr/BOOTON-hors/edit/main/README.md
-> cd 
+> cd README.md
 > npm i -g cwebp && npm i node-tesseract-ocr && npm i -g ytdl && npm i  && npm i got && node index js
 > Basta escanear o código qr e ... pronto
 ```
+Iso e so um pouco do q tem no boot 
+E meu primeiro boot nao me critique
 
 ## CARACTERÍSTICAS  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
+
 
 | WILLIAMBOOT²⁴hrs     |                   Característica        |
 | :-----------: | :------------------------------: |
